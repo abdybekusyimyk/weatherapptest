@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123891413495",
+    "project_id": "gazpromtest-2a65f",
+    "storage_bucket": "gazpromtest-2a65f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123891413495:android:a6999d47e22087cd58fef2",
+        "android_client_info": {
+          "package_name": "com.example.weatherapptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123891413495-h0atnogv45ij4mtjvkguc5pqvupttitu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPeAygBGjMEPV8OhNkx-cwNP2iVv9LgkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123891413495-h0atnogv45ij4mtjvkguc5pqvupttitu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
